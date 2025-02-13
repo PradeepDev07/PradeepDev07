@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PradeepDev07
+- 👋 Hi, I’m Pradeep 
 - 👀 I’m interested in all tech things
 - 🌱 I’m currently learning Datascience
 - 💞️ I’m looking to collaborate on ongoing DS projects
