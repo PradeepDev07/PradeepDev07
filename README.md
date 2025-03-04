@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Datascience
 - 💞️ I’m looking to collaborate on ongoing DS projects
 - 📫 How to reach me pradeep.m.developer@gmail.com
-- 😄 Pronouns: Pradeep
+- 😄 Pronouns: He,Him
 - ⚡ Fun fact: Iam good at drawing 🤙🏻 
 
 <!---
