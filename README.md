@@ -73,7 +73,7 @@ Add, mark as favorite, and filter appointments with date formatting.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/pradeep-m07"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[www.linkedin.com/in/pradeep-m07](https://www.linkedin.com/in/pradeep-m07/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pradeep.m.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://pradeep-m07portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
