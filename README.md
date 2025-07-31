@@ -73,16 +73,10 @@ Add, mark as favorite, and filter appointments with date formatting.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pradeep-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/pradeep-m07"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pradeep.m.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://pradeep-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>- 👋 Hi, I’m Pradeep 
-- 👀 I’m interested in all tech things
-- 🌱 I’m currently learning Datascience
-- 💞️ I’m looking to collaborate on ongoing DS projects
-- 📫 How to reach me pradeep.m.developer@gmail.com
-- 😄 Pronouns: He,Him
-- ⚡ Fun fact: Iam good at drawing 🤙🏻 
+  <a href="https://pradeep-m07portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 <!---
 PradeepDev07/PradeepDev07 is a ✨ special ✨ repository because its `READ  ME.md` (this file) appears on your GitHub profile.
