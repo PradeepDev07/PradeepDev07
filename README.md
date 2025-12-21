@@ -28,12 +28,15 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### 🧰 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,6 +49,36 @@
 ---
 
 ## 📂 Featured Projects
+
+### 🏥 MERN Amrutam MedLink
+A full-stack MERN medical appointment booking platform with authentication, doctor search/filtering, appointment management, and responsive design.  
+**Tech:** React, Node.js, Express, Context API, React Router  
+[💻 GitHub](https://github.com/PradeepDev07/MERN-Amrutam-MedLink)
+
+### 🤖 AI Resume Analyzer
+Upload PDF resumes and get AI-powered analysis with ratings, improvement suggestions, and upskill recommendations.  
+**Tech:** FastAPI, PostgreSQL, React, Google Gemini AI, Tailwind CSS  
+[💻 GitHub](https://github.com/PradeepDev07/ai-resume-analyzer-using-ai)
+
+### ✅ React Task Manager
+Role-based task management system with drag-and-drop functionality, user authentication, and real-time updates.  
+**Tech:** React, react-dnd, React Router, UUID, LocalStorage  
+[🔗 Live Demo](https://react-task-manager-git-main-pradeep01273-5910s-projects.vercel.app/login) • [💻 GitHub](https://github.com/PradeepDev07/React-task-Manager)
+
+### 💼 Modern Developer Portfolio
+High-performance portfolio with glassmorphism design, interactive spotlight effects, project filtering, and smooth animations.  
+**Tech:** React, Vite, Tailwind CSS, React Router  
+[💻 GitHub](https://github.com/PradeepDev07/portfolio-for-developer)
+
+### 🍎 Apple Landing Page
+3D interactive MacBook landing page with stunning animations and Three.js 3D models.  
+**Tech:** React, Three.js, GSAP, Tailwind CSS  
+[💻 GitHub](https://github.com/PradeepDev07/Apple-Landing-page)
+
+### 🎬 Giphy Clone
+React-based GIF search and favorites app using the GIPHY API with responsive design.  
+**Tech:** React, Vite, Tailwind CSS, GIPHY SDK, React Router  
+[💻 GitHub](https://github.com/PradeepDev07/Giphy-clone)
 
 ### 📺 Nxt Watch - YouTube Clone  
 A video streaming platform built with **React**, **Routing**, **Authentication**, and **Theming**.  
@@ -76,9 +109,10 @@ Add, mark as favorite, and filter appointments with date formatting.
   <a href="https://www.linkedin.com/in/pradeep-m07/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pradeep.m.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://pradeep-m07portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/PradeepDev07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <!---
-PradeepDev07/PradeepDev07 is a ✨ special ✨ repository because its `READ  ME.md` (this file) appears on your GitHub profile.
+PradeepDev07/PradeepDev07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
