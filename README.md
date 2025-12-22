@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer with a Frontend Focus</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Web+Experiences;Frontend+Specialist+%F0%9F%92%BB;React+%7C+JavaScript+%7C+Node.js+Developer;Let's+Build+Something+Amazing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Web+Experiences;Frontend+Specialist+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -37,28 +37,36 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Beginner](https://img.shields.io/badge/Level-Beginner-green?style=flat-square)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+### 🤖 AI Tools
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Beginner](https://img.shields.io/badge/Level-Beginner-green?style=flat-square)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
-## 📂 Featured Projects
+## 📂 Recent Projects
 
 ### 🏥 MERN Amrutam MedLink
 A full-stack MERN medical appointment booking platform with authentication, doctor search/filtering, appointment management, and responsive design.  
 **Tech:** React, Node.js, Express, Context API, React Router  
-[💻 GitHub](https://github.com/PradeepDev07/MERN-Amrutam-MedLink)
+[🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/MERN-Amrutam-MedLink)
 
 ### 🤖 AI Resume Analyzer
 Upload PDF resumes and get AI-powered analysis with ratings, improvement suggestions, and upskill recommendations.  
 **Tech:** FastAPI, PostgreSQL, React, Google Gemini AI, Tailwind CSS  
-[💻 GitHub](https://github.com/PradeepDev07/ai-resume-analyzer-using-ai)
+[🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/ai-resume-analyzer-using-ai)
 
 ### ✅ React Task Manager
 Role-based task management system with drag-and-drop functionality, user authentication, and real-time updates.  
@@ -68,17 +76,17 @@ Role-based task management system with drag-and-drop functionality, user authent
 ### 💼 Modern Developer Portfolio
 High-performance portfolio with glassmorphism design, interactive spotlight effects, project filtering, and smooth animations.  
 **Tech:** React, Vite, Tailwind CSS, React Router  
-[💻 GitHub](https://github.com/PradeepDev07/portfolio-for-developer)
+[🔗 Live Demo](https://pradeep-developer-portfolio.vercel.app/) • [💻 GitHub](https://github.com/PradeepDev07/portfolio-for-developer)
 
 ### 🍎 Apple Landing Page
 3D interactive MacBook landing page with stunning animations and Three.js 3D models.  
 **Tech:** React, Three.js, GSAP, Tailwind CSS  
-[💻 GitHub](https://github.com/PradeepDev07/Apple-Landing-page)
+[🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/Apple-Landing-page)
 
 ### 🎬 Giphy Clone
 React-based GIF search and favorites app using the GIPHY API with responsive design.  
 **Tech:** React, Vite, Tailwind CSS, GIPHY SDK, React Router  
-[💻 GitHub](https://github.com/PradeepDev07/Giphy-clone)
+[🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/Giphy-clone)
 
 ### 📺 Nxt Watch - YouTube Clone  
 A video streaming platform built with **React**, **Routing**, **Authentication**, and **Theming**.  
@@ -87,10 +95,6 @@ A video streaming platform built with **React**, **Routing**, **Authentication**
 ### 🛍️ Shopping Cart App  
 A fully functional e-commerce frontend with cart, search, and filtering capabilities using React + Context API.  
 [🔗 Live Demo](https://shopping-cart-demo.vercel.app) • [💻 GitHub](https://github.com/PradeepDev07/shopping-cart)
-
-### 📅 Appointments Manager  
-Add, mark as favorite, and filter appointments with date formatting.  
-[🔗 Live Demo](https://appointments-app.vercel.app) • [💻 GitHub](https://github.com/PradeepDev07/appointments-app)
 
 ---
 
@@ -108,7 +112,7 @@ Add, mark as favorite, and filter appointments with date formatting.
 <p align="center">
   <a href="https://www.linkedin.com/in/pradeep-m07/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pradeep.m.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://pradeep-m07portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://pradeep-developer-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/PradeepDev07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
