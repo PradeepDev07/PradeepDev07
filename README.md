@@ -13,7 +13,7 @@
 - 💼 I'm actively seeking a **Frontend Developer** role with full-stack capabilities
 - 👯 I'm looking to collaborate on **open-source and side projects**
 - 💬 Ask me about **JavaScript, React, CSS, Node.js**
-- 📫 How to reach me: **pradeep.m. developer@gmail.com**
+- 📫 How to reach me: **pradeep.m.developer@gmail.com**
 - 🧠 Fun Fact: I love transforming UI wireframes into functional, pixel-perfect experiences.  
 
 ---
