@@ -106,7 +106,7 @@ Upload PDF resumes and get AI-powered analysis with ratings, improvement suggest
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=PradeepDev07&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PradeepDev07&show_icons=true&theme=radical&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepDev07&theme=radical" height="180" />
 </p>
 
@@ -115,8 +115,8 @@ Upload PDF resumes and get AI-powered analysis with ratings, improvement suggest
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pradeep-m07/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pradeep.m. developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836? style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pradeep-m07/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pradeep.m. developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://pradeep-developer-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/PradeepDev07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
