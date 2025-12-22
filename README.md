@@ -58,15 +58,12 @@
 
 ## 📂 Recent Projects
 
+
+
 ### 🏥 MERN Amrutam MedLink
 A full-stack MERN medical appointment booking platform with authentication, doctor search/filtering, appointment management, and responsive design.  
 **Tech:** React, Node.js, Express, Context API, React Router  
 [🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/MERN-Amrutam-MedLink)
-
-### 🤖 AI Resume Analyzer
-Upload PDF resumes and get AI-powered analysis with ratings, improvement suggestions, and upskill recommendations.  
-**Tech:** FastAPI, PostgreSQL, React, Google Gemini AI, Tailwind CSS  
-[🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/ai-resume-analyzer-using-ai)
 
 ### ✅ React Task Manager
 Role-based task management system with drag-and-drop functionality, user authentication, and real-time updates.  
@@ -81,12 +78,12 @@ High-performance portfolio with glassmorphism design, interactive spotlight effe
 ### 🍎 Apple Landing Page
 3D interactive MacBook landing page with stunning animations and Three.js 3D models.  
 **Tech:** React, Three.js, GSAP, Tailwind CSS  
-[🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/Apple-Landing-page)
+[🔗 Live Demo](https://apple-landing-page-olive.vercel.app) • [💻 GitHub](https://github.com/PradeepDev07/Apple-Landing-page)
 
 ### 🎬 Giphy Clone
 React-based GIF search and favorites app using the GIPHY API with responsive design.  
 **Tech:** React, Vite, Tailwind CSS, GIPHY SDK, React Router  
-[🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/Giphy-clone)
+[🔗 Live Demo](https://giphy-clone-drab.vercel.app/) • [💻 GitHub](https://github.com/PradeepDev07/Giphy-clone)
 
 ### 📺 Nxt Watch - YouTube Clone  
 A video streaming platform built with **React**, **Routing**, **Authentication**, and **Theming**.  
@@ -95,6 +92,11 @@ A video streaming platform built with **React**, **Routing**, **Authentication**
 ### 🛍️ Shopping Cart App  
 A fully functional e-commerce frontend with cart, search, and filtering capabilities using React + Context API.  
 [🔗 Live Demo](https://shopping-cart-demo.vercel.app) • [💻 GitHub](https://github.com/PradeepDev07/shopping-cart)
+
+### 🤖 AI Resume Analyzer
+Upload PDF resumes and get AI-powered analysis with ratings, improvement suggestions, and upskill recommendations.  
+**Tech:** FastAPI, PostgreSQL, React, Google Gemini AI, Tailwind CSS  
+[🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/ai-resume-analyzer-using-ai)
 
 ---
 
