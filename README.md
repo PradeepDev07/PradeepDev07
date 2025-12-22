@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer with a Frontend Focus</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Web+Experiences;Frontend+Specialist+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab. com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Web+Experiences;Frontend+Specialist+%F0%9[...]
 </p>
 
 ---
@@ -13,8 +13,8 @@
 - 💼 I'm actively seeking a **Frontend Developer** role with full-stack capabilities
 - 👯 I'm looking to collaborate on **open-source and side projects**
 - 💬 Ask me about **JavaScript, React, CSS, Node.js**
-- 📫 How to reach me: **pradeep.m.developer@gmail.com**
-- 🧠 Fun Fact: I love transforming UI wireframes into functional, pixel-perfect experiences.
+- 📫 How to reach me: **pradeep.m. developer@gmail.com**
+- 🧠 Fun Fact: I love transforming UI wireframes into functional, pixel-perfect experiences. 
 
 ---
 
@@ -28,11 +28,11 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three. js&logoColor=white)
 
 ### 🧰 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express. js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,7 +50,7 @@
 
 ### 🤖 AI Tools
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Beginner](https://img.shields.io/badge/Level-Beginner-green?style=flat-square)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logoColor=white)
+![Make. com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -58,7 +58,10 @@
 
 ## 📂 Recent Projects
 
-
+### 💾 Code Snippets Manager
+A full-stack MERN application for developers to store, organize, and share code snippets with syntax highlighting, search functionality, forking, and public/private options.  
+**Tech:** React, Node.js, Express, MongoDB, Tailwind CSS, JWT Authentication  
+[🔗 Live Demo](https://code-snippets-manager-weld.vercel.app/) • [💻 GitHub](https://github.com/PradeepDev07/code-snippets-manager)
 
 ### 🏥 MERN Amrutam MedLink
 A full-stack MERN medical appointment booking platform with authentication, doctor search/filtering, appointment management, and responsive design.  
@@ -66,7 +69,7 @@ A full-stack MERN medical appointment booking platform with authentication, doct
 [🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/MERN-Amrutam-MedLink)
 
 ### ✅ React Task Manager
-Role-based task management system with drag-and-drop functionality, user authentication, and real-time updates.  
+Role-based task management system with drag-and-drop functionality, user authentication, and real-time updates.   
 **Tech:** React, react-dnd, React Router, UUID, LocalStorage  
 [🔗 Live Demo](https://react-task-manager-git-main-pradeep01273-5910s-projects.vercel.app/login) • [💻 GitHub](https://github.com/PradeepDev07/React-task-Manager)
 
@@ -86,7 +89,7 @@ React-based GIF search and favorites app using the GIPHY API with responsive des
 [🔗 Live Demo](https://giphy-clone-drab.vercel.app/) • [💻 GitHub](https://github.com/PradeepDev07/Giphy-clone)
 
 ### 📺 Nxt Watch - YouTube Clone  
-A video streaming platform built with **React**, **Routing**, **Authentication**, and **Theming**.  
+A video streaming platform built with **React**, **Routing**, **Authentication**, and **Theming**.   
 [🔗 Live Demo](https://nxtwatch-demo.vercel.app) • [💻 GitHub](https://github.com/PradeepDev07/nxt-watch)
 
 ### 🛍️ Shopping Cart App  
@@ -103,7 +106,7 @@ Upload PDF resumes and get AI-powered analysis with ratings, improvement suggest
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PradeepDev07&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api? username=PradeepDev07&show_icons=true&theme=radical&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepDev07&theme=radical" height="180" />
 </p>
 
@@ -113,12 +116,12 @@ Upload PDF resumes and get AI-powered analysis with ratings, improvement suggest
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pradeep-m07/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pradeep.m.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:pradeep.m.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836? style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://pradeep-developer-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/PradeepDev07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!---
+<! ---
 PradeepDev07/PradeepDev07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
