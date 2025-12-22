@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer with a Frontend Focus</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Web+Experiences;Frontend+Specialist+%F0%9F%92%BB;Building+Scalable+Full+Stack+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?%20font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Web+Experiences;Frontend+Specialist+%F0%9F%92%BB;Building+Scalable+Full+Stack+Solutions" alt="Typing SVG" />
 </p>
 
 ---
