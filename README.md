@@ -85,19 +85,6 @@ React-based GIF search and favorites app using the GIPHY API with responsive des
 **Tech:** React, Vite, Tailwind CSS, GIPHY SDK, React Router  
 [🔗 Live Demo](https://giphy-clone-drab.vercel.app/) • [💻 GitHub](https://github.com/PradeepDev07/Giphy-clone)
 
-### 📺 Nxt Watch - YouTube Clone  
-A video streaming platform built with **React**, **Routing**, **Authentication**, and **Theming**.   
-[🔗 Live Demo](https://nxtwatch-demo.vercel.app) • [💻 GitHub](https://github.com/PradeepDev07/nxt-watch)
-
-### 🛍️ Shopping Cart App  
-A fully functional e-commerce frontend with cart, search, and filtering capabilities using React + Context API.  
-[🔗 Live Demo](https://shopping-cart-demo.vercel.app) • [💻 GitHub](https://github.com/PradeepDev07/shopping-cart)
-
-### 🤖 AI Resume Analyzer
-Upload PDF resumes and get AI-powered analysis with ratings, improvement suggestions, and upskill recommendations.  
-**Tech:** FastAPI, PostgreSQL, React, Google Gemini AI, Tailwind CSS  
-[🔗 Live Demo](#) • [💻 GitHub](https://github.com/PradeepDev07/ai-resume-analyzer-using-ai)
-
 ---
 
 ## 📈 GitHub Stats
