@@ -68,7 +68,7 @@ A full-stack MERN medical appointment booking platform with authentication, doct
 ### ✅ React Task Manager
 Role-based task management system with drag-and-drop functionality, user authentication, and real-time updates.   
 **Tech:** React, react-dnd, React Router, UUID, LocalStorage  
-[🔗 Live Demo](https://react-task-manager-git-main-pradeep01273-5910s-projects. vercel.app/login) • [💻 GitHub](https://github.com/PradeepDev07/React-task-Manager)
+[🔗 Live Demo](https://react-task-manager-git-main-pradeep01273-5910s-projects.vercel.app/login) • [💻 GitHub](https://github.com/PradeepDev07/React-task-Manager)
 
 ### 💼 Modern Developer Portfolio
 High-performance portfolio with glassmorphism design, interactive spotlight effects, project filtering, and smooth animations.  
@@ -78,7 +78,7 @@ High-performance portfolio with glassmorphism design, interactive spotlight effe
 ### 🍎 Apple Landing Page
 3D interactive MacBook landing page with stunning animations and Three. js 3D models.  
 **Tech:** React, Three.js, GSAP, Tailwind CSS  
-[🔗 Live Demo](https://apple-landing-page-olive.vercel. app) • [💻 GitHub](https://github.com/PradeepDev07/Apple-Landing-page)
+[🔗 Live Demo](https://apple-landing-page-olive.vercel.app) • [💻 GitHub](https://github.com/PradeepDev07/Apple-Landing-page)
 
 ### 🎬 Giphy Clone
 React-based GIF search and favorites app using the GIPHY API with responsive design.  
