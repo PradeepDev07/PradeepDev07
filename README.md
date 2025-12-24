@@ -73,7 +73,7 @@ Role-based task management system with drag-and-drop functionality, user authent
 ### 💼 Modern Developer Portfolio
 High-performance portfolio with glassmorphism design, interactive spotlight effects, project filtering, and smooth animations.  
 **Tech:** React, Vite, Tailwind CSS, React Router  
-[🔗 Live Demo](https://pradeep-developer-portfolio. vercel.app/) • [💻 GitHub](https://github.com/PradeepDev07/portfolio-for-developer)
+[🔗 Live Demo](https://pradeep-developer-portfolio.vercel.app/) • [💻 GitHub](https://github.com/PradeepDev07/portfolio-for-developer)
 
 ### 🍎 Apple Landing Page
 3D interactive MacBook landing page with stunning animations and Three. js 3D models.  
