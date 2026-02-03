@@ -6,15 +6,25 @@
 </p>
 
 ---
+## About Me :
+-I’m a Full-Stack Developer with a strong backend focus, passionate about building scalable applications and automating repetitive workflows. I work primarily with Node.js, Express, MongoDB, and Python, and I enjoy designing systems that are clean, practical, and easy to maintain.
 
-## 🧑‍💻 About Me
+-Along with development, I actively explore automation using enterprise RPA tools, no-code platforms (n8n/Make), and Python scripting to streamline everyday tasks. I’ve built small automation utilities for file processing, data extraction, and even a personal workflow that converts text prompts into images through the DrawThings app, reducing manual effort in creative tasks.
 
-- 🌱 I'm currently learning **Advanced React, TypeScript, and Next.js**
+-I’m curious about AI & Generative AI and how automation can connect applications, APIs, and business processes. As a fast learner, I focus on solving real-world problems with the right mix of code and automation rather than complexity for its own sake.
+
+-Looking to grow as a backend/automation engineer where I can contribute to product development, integrations, and intelligent process automation.
+
+
+## 🧑‍💻 About Me (Short)
+
+- 🌱 I'm currently learning **Advanced React, TypeScript, automation **
 - 💼 I'm actively seeking a **Frontend Developer** role with full-stack capabilities
 - 👯 I'm looking to collaborate on **open-source and side projects**
 - 💬 Ask me about **JavaScript, React, CSS, Node.js**
 - 📫 How to reach me: **pradeep.m. developer@gmail.com**
-- 🧠 Fun Fact: I love transforming UI wireframes into functional, pixel-perfect experiences.  
+- 🧠 Fun Fact: I love transforming UI wireframes into functional, pixel-perfect experiences.
+
 
 ---
 
